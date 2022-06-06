@@ -1,6 +1,7 @@
 # Timer App ⏰
 
-First Commit => Just countdown
+#First Commit => Just countdown
+
 ![video-to-gif-converter](https://user-images.githubusercontent.com/41589534/172076016-b09bab27-4f08-47c8-ac83-dfccbc9e8578.gif)
 
 

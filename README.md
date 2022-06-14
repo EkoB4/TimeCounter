@@ -18,3 +18,9 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/41589534/172075973-98c3b4ff-e2ec-4f66-b9bc-6fadeb48c80b.gif)
 
 
+
+
+
+# Third Commit => Tutorial screen Sample added, Main Screen added
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/41589534/173585573-bdd48d79-2895-4e09-ab33-c2793bb94a53.gif)

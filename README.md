@@ -23,7 +23,10 @@
 
 # Third Commit => Tutorial screen Sample added, Main Screen added
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/41589534/173585573-bdd48d79-2895-4e09-ab33-c2793bb94a53.gif)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/41589534/174104398-fd7b5077-3354-48cb-a300-515dbec043de.gif)
+
+
+
 
 
 
